@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:161B22,100:2563EB&amp;height=190&amp;section=header&amp;text=Chen%20Ye&amp;fontSize=50&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Building%20useful%20tools%20with%20Python%20%26%20AI&amp;descAlignY=62&amp;descSize=18" alt="Chen Ye — Building useful tools with Python and AI" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:161B22,100:2563EB&amp;height=190&amp;section=header&amp;text=Chen%20Ye&amp;fontSize=50&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Building%20useful%20tools%20with%20Python%20and%20AI&amp;descAlignY=62&amp;descSize=18" alt="Chen Ye — Building useful tools with Python and AI" width="100%"/>
 </p>
 
 <p align="center">
@@ -51,4 +51,5 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 <p align="center">
   <sub>Thanks for stopping by — feel free to explore my repositories and open an issue if something sparks your interest.</sub>
 </p>
+
 
