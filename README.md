@@ -14,11 +14,6 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 - 🤖 AI-assisted development and workflow automation
 - ⚙️ Small tools that make everyday work faster
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,rust,tauri,sqlite,windows,git&amp;perline=8" alt="Python, JavaScript, React, Rust, Tauri, SQLite, Windows, and Git"/>
-</p>
 
 ## Featured Projects
 
@@ -51,4 +46,5 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 <p align="center">
   <sub>Thanks for stopping by — feel free to explore my repositories and open an issue if something sparks your interest.</sub>
 </p>
+
 
