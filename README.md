@@ -44,10 +44,11 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=evachxji&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true" alt="Chen Ye's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evachxji&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=6" alt="Chen Ye's most used languages"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=evachxji&amp;theme=github-dark-blue&amp;hide_border=true" alt="Chen Ye's GitHub contribution streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evachxji&amp;theme=github_dark" alt="Chen Ye's most used languages"/>
 </p>
 
 <p align="center">
   <sub>Thanks for stopping by — feel free to explore my repositories and open an issue if something sparks your interest.</sub>
 </p>
+
