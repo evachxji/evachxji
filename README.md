@@ -42,7 +42,13 @@ I build **practical desktop software and AI-powered developer tools** — focuse
       <p><code>React</code> <code>Tauri</code> <code>SQLite</code></p>
       <p><a href="https://github.com/evachxji/sql-clipboard/releases">Download</a> · <a href="https://github.com/evachxji/sql-clipboard">View source</a></p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/evachxji/yc-statusline">yc-statusline</a></h3>
+      <p><strong>A lightweight, zero-dependency status line for Claude Code.</strong></p>
+      <p>Keep model, provider, Git branch, context usage, session tokens, and real-time output speed visible across Windows, macOS, and Linux.</p>
+      <p><code>Python</code> <code>Standard Library</code> <code>Cross-platform</code></p>
+      <p><a href="https://github.com/evachxji/yc-statusline">View source</a></p>
+    </td>
   </tr>
 </table>
 
