@@ -20,27 +20,27 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/evachxji/zbox/main/assets/icon.png" width="30" alt="zbox icon"/> <a href="https://github.com/evachxji/zbox">zbox</a></h3>
+      <h3 align="center"><img src="https://raw.githubusercontent.com/evachxji/zbox/main/assets/icon.png" width="30" alt="zbox icon"/> <a href="https://github.com/evachxji/zbox">zbox</a></h3>
       <p><strong>Keep your Windows desktop clean, organized, and efficient.</strong></p>
       <p>An all-in-one desktop organizer with desktop boxes, a floating panel, file transfer, screenshots, and OCR for Windows 10 / 11.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Windows</code></p>
       <p><a href="https://github.com/evachxji/zbox/releases/latest">Latest release</a> · <a href="https://github.com/evachxji/zbox">View source</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/evachxji/sql-clipboard/main/app/src-tauri/icons/256x256.png" width="30" alt="sql-clipboard icon"/> <a href="https://github.com/evachxji/sql-clipboard">sql-clipboard</a></h3>
-      <p><strong>A lightweight, portable SQL clipboard for Windows.</strong></p>
-      <p>Manage frequently used SQL in an extensible table and copy it with one click. Includes SQL execution, preset queries, and local SQLite persistence.</p>
-      <p><code>React</code> <code>Tauri</code> <code>SQLite</code></p>
-      <p><a href="https://github.com/evachxji/sql-clipboard/releases">Download</a> · <a href="https://github.com/evachxji/sql-clipboard">View source</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/evachxji/build_douyin_acount/main/docs/images/icon.png" width="30" alt="build_douyin_acount icon"/> <a href="https://github.com/evachxji/build_douyin_acount">build_douyin_acount</a></h3>
+      <h3 align="center"><img src="https://raw.githubusercontent.com/evachxji/build_douyin_acount/main/docs/images/icon.png" width="30" alt="build_douyin_acount icon"/> <a href="https://github.com/evachxji/build_douyin_acount">build_douyin_acount</a></h3>
       <p><strong>An AI-powered short-video operations assistant for PC.</strong></p>
       <p>Collect short videos from TikTok / Instagram, then use local AI to understand, categorize, filter, and generate copy for publishing to Douyin.</p>
       <p><code>Rust</code> <code>Tauri</code> <code>React</code> <code>SQLite</code></p>
       <p><a href="https://github.com/evachxji/build_douyin_acount">View source</a> · <a href="https://github.com/evachxji/build_douyin_acount#界面预览">Preview</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><img src="https://raw.githubusercontent.com/evachxji/sql-clipboard/main/app/src-tauri/icons/256x256.png" width="30" alt="sql-clipboard icon"/> <a href="https://github.com/evachxji/sql-clipboard">sql-clipboard</a></h3>
+      <p><strong>A lightweight, portable SQL clipboard for Windows.</strong></p>
+      <p>Manage frequently used SQL in an extensible table and copy it with one click. Includes SQL execution, preset queries, and local SQLite persistence.</p>
+      <p><code>React</code> <code>Tauri</code> <code>SQLite</code></p>
+      <p><a href="https://github.com/evachxji/sql-clipboard/releases">Download</a> · <a href="https://github.com/evachxji/sql-clipboard">View source</a></p>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -56,5 +56,4 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 <p align="center">
   <sub>Thanks for stopping by — feel free to explore my repositories and open an issue if something sparks your interest.</sub>
 </p>
-
 
