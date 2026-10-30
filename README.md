@@ -37,10 +37,10 @@ I build **practical desktop software and AI-powered developer tools** — focuse
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/evachxji/build_douyin_acount/main/docs/images/icon.png" width="30" alt="build_douyin_acount icon"/> <a href="https://github.com/evachxji/build_douyin_acount">build_douyin_acount</a></h3>
-      <p><strong>PC 端 AI 短视频运营助手。</strong></p>
-      <p>从 TikTok / Instagram 采集短视频，本地 AI 完成理解、分类、筛选与文案生成，辅助运营者发布到抖音。</p>
+      <p><strong>An AI-powered short-video operations assistant for PC.</strong></p>
+      <p>Collect short videos from TikTok / Instagram, then use local AI to understand, categorize, filter, and generate copy for publishing to Douyin.</p>
       <p><code>Rust</code> <code>Tauri</code> <code>React</code> <code>SQLite</code></p>
-      <p><a href="https://github.com/evachxji/build_douyin_acount">View source</a> · <a href="https://github.com/evachxji/build_douyin_acount#界面预览">界面预览</a></p>
+      <p><a href="https://github.com/evachxji/build_douyin_acount">View source</a> · <a href="https://github.com/evachxji/build_douyin_acount#界面预览">Preview</a></p>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -56,4 +56,5 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 <p align="center">
   <sub>Thanks for stopping by — feel free to explore my repositories and open an issue if something sparks your interest.</sub>
 </p>
+
 
