@@ -21,17 +21,17 @@ I build **practical desktop software and AI-powered developer tools** — focuse
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/evachxji/zbox/main/assets/icon.png" width="30" alt="zbox icon"/> <a href="https://github.com/evachxji/zbox">zbox</a></h3>
-      <p><strong>让 Windows 桌面更清爽、更高效。</strong></p>
-      <p>集桌面格子、悬浮面板、文件传输、截图与 OCR 于一体，支持 Windows 10 / 11。</p>
+      <p><strong>Keep your Windows desktop clean, organized, and efficient.</strong></p>
+      <p>An all-in-one desktop organizer with desktop boxes, a floating panel, file transfer, screenshots, and OCR for Windows 10 / 11.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Windows</code></p>
-      <p><a href="https://github.com/evachxji/zbox/releases/latest">下载最新版</a> · <a href="https://github.com/evachxji/zbox">查看源码</a></p>
+      <p><a href="https://github.com/evachxji/zbox/releases/latest">Latest release</a> · <a href="https://github.com/evachxji/zbox">View source</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/evachxji/sql-clipboard/main/app/src-tauri/icons/256x256.png" width="30" alt="sql-clipboard icon"/> <a href="https://github.com/evachxji/sql-clipboard">sql-clipboard</a></h3>
-      <p><strong>轻量便携的桌面 SQL 剪切板。</strong></p>
-      <p>用可拓展的表格管理常用 SQL，单击即复制；支持 SQL 查询、预设查询与 SQLite 本地持久化。</p>
+      <p><strong>A lightweight, portable SQL clipboard for Windows.</strong></p>
+      <p>Manage frequently used SQL in an extensible table and copy it with one click. Includes SQL execution, preset queries, and local SQLite persistence.</p>
       <p><code>React</code> <code>Tauri</code> <code>SQLite</code></p>
-      <p><a href="https://github.com/evachxji/sql-clipboard/releases">下载便携版</a> · <a href="https://github.com/evachxji/sql-clipboard">查看源码</a></p>
+      <p><a href="https://github.com/evachxji/sql-clipboard/releases">Download</a> · <a href="https://github.com/evachxji/sql-clipboard">View source</a></p>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ I build **practical desktop software and AI-powered developer tools** — focuse
       <p><strong>PC 端 AI 短视频运营助手。</strong></p>
       <p>从 TikTok / Instagram 采集短视频，本地 AI 完成理解、分类、筛选与文案生成，辅助运营者发布到抖音。</p>
       <p><code>Rust</code> <code>Tauri</code> <code>React</code> <code>SQLite</code></p>
-      <p><a href="https://github.com/evachxji/build_douyin_acount">查看源码</a> · <a href="https://github.com/evachxji/build_douyin_acount#界面预览">界面预览</a></p>
+      <p><a href="https://github.com/evachxji/build_douyin_acount">View source</a> · <a href="https://github.com/evachxji/build_douyin_acount#界面预览">界面预览</a></p>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -56,5 +56,4 @@ I build **practical desktop software and AI-powered developer tools** — focuse
 <p align="center">
   <sub>Thanks for stopping by — feel free to explore my repositories and open an issue if something sparks your interest.</sub>
 </p>
-
 
